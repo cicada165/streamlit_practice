@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+yfinance
+shap
+altair
+rdkit-pypi
+beautifulsoup4
+Pillow

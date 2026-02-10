@@ -1,11 +1,18 @@
-# code
-This is a compilation of R programming codes used on the **Data Professor** YouTube channel tutorial videos.
+# Data Science & Web App Tutorials
 
-Folder | Description
----|---
-[iris](https://github.com/dataprofessor/code/tree/master/iris) | Codes for performing *exploratory data analysis* (so as to gain *data understanding*) and for building *classification models* of the Iris dataset.
-[dhfr](https://github.com/dataprofessor/code/tree/master/dhfr) | Codes for performing *exploratory data analysis* (so as to gain *data understanding*) and for building *classification models* of the Iris dataset.
-[python](https://github.com/dataprofessor/code/tree/master/python) | Codes for various Python data science project tutorials.
-[shiny](https://github.com/dataprofessor/code/tree/master/shiny) | Codes for building *web applications* in R with *shiny* package.
+This repository contains code from the **Data Professor** YouTube channel tutorials.
 
-> Note: More to come. Please stay tuned!
+## Directory Structure
+
+| Folder | Description |
+|---|---|
+| **[python](python/)** | **Jupyter Notebooks**: A collection of Python data science tutorials (EDA, ML, etc.). |
+| **[shiny](shiny/)** | **R Shiny Apps**: Examples of web applications built with R and Shiny. |
+| **[streamlit](streamlit/)** | **Streamlit Apps**: A series of Streamlit web applications, organized by tutorial part. |
+| **[iris](iris/)** | **Iris Dataset**: ML models and EDA specifically for the Iris dataset. |
+| **[dhfr](dhfr/)** | **Bioinformatics**: ML models for predicting bioactivity (DHFR). |
+
+## getting Started
+
+- **Streamlit Apps**: Navigate to `streamlit/` and check the `README.md` there for a list of apps and setup instructions.
+- **Notebooks**: Launch Jupyter Lab/Notebook in the `python/` directory.
